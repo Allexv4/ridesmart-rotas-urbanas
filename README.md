@@ -76,7 +76,7 @@ ridesmart/
 4. A primeira célula instala as dependências automaticamente (`osmnx`, `folium`, `networkx`).
 5. O download do grafo de Natal-RN leva aproximadamente 20–30 segundos.
 
-> 🔗 **Link do Colab:** `[cole aqui o link de compartilhamento do seu notebook no Colab]`
+> 🔗 **Link do Colab:** [Acessar Projeto no Colab](https://colab.research.google.com/drive/1mWb2ynLkQEF6n-ewuexrP2gucZ_DpP_-?usp=sharing)
 
 ### Localmente
 
