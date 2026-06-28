@@ -57,12 +57,12 @@ ridesmart/
 
 | Algoritmo | Custo (m) | Nós Exp. | Tempo (ms) | D.P. — 20 exec. (ms) |
 |-----------|-----------|----------|------------|----------------------|
-| Dijkstra Simples | 2.629 | 773 | 1.482,74 | 142,82 |
-| Dijkstra Heap | 2.629 | 774 | 5,27 | 0,34 |
-| A\* | 2.629 | 172 | 2,42 | 0,08 |
-| Bellman-Ford | 2.629 | 116 | 4.667,20 | 472,34 |
+| Dijkstra Simples | 2.624 | 1.544 | 5.143,33 | 483,89 |
+| Dijkstra Heap | 2.624 | 1.545 | 11,29 | 1,08 |
+| A\* | 2.624 | 356 | 5,00 | 0,68 |
+| Bellman-Ford | 2.624 | 111 | 43.947,51 | 364,21 |
 
-**Melhor P por cenário (Dijkstra Heap):** nó `1387156245` (39 m de caminhada) em todos os três cenários de otimização.
+**Melhor P por cenário (Dijkstra Heap):** nó `8644620966` (192m de caminhada) em todos os três cenários de otimização.
 
 ---
 
